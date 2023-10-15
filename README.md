@@ -1,4 +1,4 @@
-# LuoJi_AI (Neural Network Operations Classifier)
+# LuoJi_AI (LuoJi's Utility for Operational Judgment in Neural Networks)
 Small unpretentious script to test the different types of neurons on several types of problem
 This repository contains a Python script that demonstrates the use of neural networks for various logical operations. The purpose is to explore and test different types of neural networks on various types of problems and classify them.
 
